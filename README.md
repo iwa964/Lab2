@@ -104,7 +104,7 @@ Proceed to the second lab activity on Quercus!
 
 ## Hints and Tips
 
-### TASK 1 TODO: Hints √
+### TASK 1 TODO: Hints
 - Hint 1: you only need to change one line of code
 - Hint 2: unlike Python, an int has a maximum value that it can store (see Integer.MAX_VALUE).
 also see https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
